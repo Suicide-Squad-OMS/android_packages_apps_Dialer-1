@@ -40,5 +40,5 @@
         android:summary="%s"
         android:defaultValue=""
         android:persistent="false" />
-
+		
 </PreferenceScreen>
